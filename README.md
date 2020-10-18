@@ -1,2 +1,23 @@
 # welcome_to_my_website_HTLM
-&lt;!DOCTYPE html> &lt;html lang="en" dir="ltr">   &lt;head>     &lt;meta charset="utf-6">     &lt;title>&lt;/title>   &lt;/head>   &lt;body>     &lt;h1>Welcome to my Website!&lt;/h1>      &lt;p>I'm excited to eventually learn Django!&lt;/p>     &lt;a href="https://www.djangoproject.com/">Here is a link to the official Django Website&lt;/a>     &lt;p>Here is a picture of the Python Logo:&lt;/p>     &lt;img src="https://tsgdoc.socsci.ru.nl/images/5/58/Python-logo-generic.svg" alt="">         &lt;p>Here are three reasons Django is cool&lt;/p>     &lt;ol>       &lt;li>Ridiculously Fast&lt;/li>       &lt;li>Reassuringly Secure&lt;/li>       &lt;li>Exceedingly Scalable&lt;/li>     &lt;/ol>      &lt;h1>&lt;strong>Bonus: Optional Extra Credit&lt;/strong>&lt;/h1>      &lt;p>Can you figure out how to make a picture a link?&lt;/p>     &lt;/body> &lt;/html>
+     <!DOCTYPE html> 
+     <html lang="en" dir="ltr">   
+     <head>     
+     <meta charset="utf-6">     
+     <title></title>   
+     </head>   
+     <body>     
+     <h1>Welcome to my Website!</h1>      
+     <p>I'm excited to eventually learn Django!</p>     
+     <a href="https://www.djangoproject.com/">Here is a link to the official Django Website</a>     
+     <p>Here is a picture of the Python Logo</p>
+     <img src="https://tsgdoc.socsci.ru.nl/images/5/58/Python-logo-generic.svg" alt="">         
+     <p>Here are three reasons Django is cool<p>     
+     <ol>       
+     <li>Ridiculously Fast<li>       
+     <li>Reassuringly Secure>li>       
+     <li>Exceedingly Scalable<li>     
+     </ol>      
+     <h1><strong>Bonus: Optional Extra Credit</strong></h1>      
+     <p>Can you figure out how to make a picture a link?</p>     
+     </body> 
+     </html>
